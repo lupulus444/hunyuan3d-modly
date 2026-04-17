@@ -1,6 +1,14 @@
 {
   "id": "hunyuan3d-modly",
-  "name": "hunyuan3d",
+  "name": "Hunyuan3D Generator",
   "version": "1.0",
-  "generator": "generator.py"
+  "generator": "generator.py",
+  "nodes": [
+    {
+      "id": "generate_3d",
+      "name": "Generate 3D Model",
+      "description": "Generate a 3D model from prompt",
+      "category": "AI/3D"
+    }
+  ]
 }
