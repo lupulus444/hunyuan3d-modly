@@ -3,12 +3,13 @@
   "name": "Hunyuan3D Generator",
   "version": "1.0",
   "generator": "generator.py",
+  "generator_class": "Generator",
   "nodes": [
     {
       "id": "generate_3d",
       "name": "Generate 3D Model",
-      "description": "Generate a 3D model from prompt",
-      "category": "AI/3D"
+      "description": "Generate a 3D model",
+      "category": "AI"
     }
   ]
 }
